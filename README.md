@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently student at IMT Atlantique, France
+Currently student at IMT Atlantique, France and intern at [DitRit](https://github.com/ditrit)
 
 <!--
 **natfc/natfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
