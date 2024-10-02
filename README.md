@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently student at IMT Atlantique, France in an exchange program with UPV
+Currently student at IMT Atlantique, France in an exchange program with UPV (Universitat Politècnica de València)
 
 <!--
 **natfc/natfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
